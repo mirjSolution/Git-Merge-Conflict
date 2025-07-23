@@ -4,7 +4,7 @@ This project demonstrates how merge conflicts occur when two developers make cha
 
 ## 📄 Scenario Summary
 
-![Merge Conflict](Images/mergeconflict.gif)
+![Merge Conflict](Images/mergecon.gif)
 
 1. 👨‍💻 Developer 1 makes a local change to `test1.txt` and commits it.
 2. 🌐 Developer 2 edits the same file commits to the remote repository.
