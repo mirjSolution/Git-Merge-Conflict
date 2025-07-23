@@ -4,7 +4,9 @@ This project demonstrates how merge conflicts occur when two developers make cha
 
 ## 📄 Scenario Summary
 
-1. 👨‍💻 Developer 1 makes a local change to `README.md` and commits it.
+![Merge Conflict](Images/mergeconflict.gif)
+
+1. 👨‍💻 Developer 1 makes a local change to `test1.txt` and commits it.
 2. 🌐 Developer 2 edits the same file commits to the remote repository.
 3. 🚫 When Developer A tries to push, Git rejects it due to conflicts.
 4. ⚠️ A `git pull --rebase` is attempted, and a merge conflict occurs.
